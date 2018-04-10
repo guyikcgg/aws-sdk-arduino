@@ -1,1 +1,0 @@
-../common/AmazonSNSClient.cpp
